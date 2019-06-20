@@ -1,4 +1,4 @@
-时光流影前端框架（node+express+webpack+react）
+多页应用前端框架（node+express+webpack+react）
 # 如何启动项目
 
 1. 检出项目
